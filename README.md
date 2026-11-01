@@ -180,25 +180,20 @@ Make sure the following software is installed:
 * SQLite Command Line Tools
 * Postman
 
-### Step 1: Clone the Repository
 
-```bash
-git clone https://github.com/geethakrishnakumbha/BACKEND-DEVELOPMENT-LABS.git
-```
-
-### Step 2: Navigate to Lab 2
+### Step 1: Navigate to Lab 2
 
 ```bash
 cd BACKEND-DEVELOPMENT-LABS/lab-02
 ```
 
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Step 4: Start the Development Server
+### Step 3: Start the Development Server
 
 ```bash
 npm run dev
