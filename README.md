@@ -584,6 +584,7 @@ This lab provided practical experience in relational database operations, backen
 * [ ] Live deployment completed or deployment limitation documented.
 
 **GitHub Repository:**
-https://github.com/geethakrishnakumbha/BACKEND-DEVELOPMENT-LABS
-#   D C F G N H J  
+https://github.com/imshivateja082-prog/lab-2-bdf-correct-
+#   D C F G N H J 
+ 
  
