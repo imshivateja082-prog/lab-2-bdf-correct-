@@ -23,7 +23,7 @@
 
 ## 2. Live Deployment Link
 
-**Live URL:** Not deployed yet (Local demonstration).
+**Live URL:**https://lab-2-bdf-correct.onrender.com/
 
 The application is currently configured and tested locally using Node.js, Express.js and SQLite.
 
